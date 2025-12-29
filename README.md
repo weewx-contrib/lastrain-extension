@@ -10,7 +10,7 @@ This search list extension offers extra tags:
 An example minimal skin is provided to show usage for including last rain data in your skin(s).
 
 ### VERSION COMPATIBILITY NOTE
-This branch is compatible with WeeWX versions 4.10 and later. For older WeeWX versions please use the weewx-pre-4.10 branch.
+This branch is compatible with WeeWX version 5  and later.
 
 ### Installation instructions:
 This extension can be installed/uninstalled using the WeeWX extension installer.
