@@ -1,6 +1,6 @@
 
 ## lastrain - weewx extension that provides extended statistics for reports
-Copyright 2015-2023 Vince Skahan
+Copyright 2015-2026 Vince Skahan
 
 This search list extension offers extra tags:
 

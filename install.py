@@ -1,7 +1,7 @@
 # installer for lastrain
 # - cut/paste based on xstats 0.2
 
-from setup import ExtensionInstaller
+from weecfg.extension import ExtensionInstaller
 
 def loader():
     return LastRainInstaller()
@@ -9,7 +9,7 @@ def loader():
 class LastRainInstaller(ExtensionInstaller):
     def __init__(self):
         super(LastRainInstaller, self).__init__(
-            version="0.2",
+            version="0.3",
             name='lastrain',
             description='SLE for last rain information for weewx reports',
             author="Vince Skahan",
